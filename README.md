@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Bhara Ayong Purna Mustika</h1>
 <h3 align="center">I'm Informatics Engineering Student.</h3>
 
