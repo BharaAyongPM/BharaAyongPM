@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhara Ayong Purna Mustika</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Front+End+Web+Developer;Backend+Web+Developer;Junior+Network+Administrator;Bangkit+Academy++Student++2023)](https://git.io/typing-svg)
 I am a motivated and dedicated professional with experience in web development and computer networking. Currently, I am a sixth-semester student pursuing a degree in Computer Science at Universitas Bina Sarana Informatika. Throughout my academic journey, I have honed my skills and knowledge in cloud computing, particularly through my participation in the Cloud Computing Learning Path at Bangkit Academy, led by Google, Tokopedia, Gojek, and Traveloka.
 
 
