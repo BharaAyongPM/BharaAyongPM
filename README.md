@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhara Ayong Purna Mustika</h1>
+<h1 align="center">Hi 👋</h1>
 
 ![github](https://github.com/BharaAyongPM/BharaAyongPM/assets/86311595/c8e7a64f-2509-4751-9d68-1b5d175992b6)
 
