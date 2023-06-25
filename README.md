@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhara Ayong Purna Mustika</h1>
-<h3 align="center">I am a motivated and dedicated professional with experience in web development and computer networking. Currently, I am a sixth-semester student pursuing a degree in Computer Science at Universitas Bina Sarana Informatika. Throughout my academic journey, I have honed my skills and knowledge in cloud computing, particularly through my participation in the Cloud Computing Learning Path at Bangkit Academy, led by Google, Tokopedia, Gojek, and Traveloka.</h3>
+<h3 align="left">I am a motivated and dedicated professional with experience in web development and computer networking. Currently, I am a sixth-semester student pursuing a degree in Computer Science at Universitas Bina Sarana Informatika. Throughout my academic journey, I have honed my skills and knowledge in cloud computing, particularly through my participation in the Cloud Computing Learning Path at Bangkit Academy, led by Google, Tokopedia, Gojek, and Traveloka.</h3>
 
 
 
