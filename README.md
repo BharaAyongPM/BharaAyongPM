@@ -1,18 +1,21 @@
 <h1 align="center">Hi 👋, I'm Bhara Ayong Purna Mustika</h1>
+
+![github](https://github.com/BharaAyongPM/BharaAyongPM/assets/86311595/c8e7a64f-2509-4751-9d68-1b5d175992b6)
+
 <p align="center">
-<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Front+End+Web+Developer;Backend+Web+Developer;Junior+Network+Administrator;Bangkit+Academy++Student++2023" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Front+End+Web+Developer;Backend+Web+Developer;Junior+Network+Administrator;Bangkit+Academy++Student++2023;Computer+Science+Student" alt="Typing SVG" /></a>
 </p>
 
 I am a motivated and dedicated professional with experience in web development and computer networking. Currently, I am a sixth-semester student pursuing a degree in Computer Science at Universitas Bina Sarana Informatika. Throughout my academic journey, I have honed my skills and knowledge in cloud computing, particularly through my participation in the Cloud Computing Learning Path at Bangkit Academy, led by Google, Tokopedia, Gojek, and Traveloka.
 
-
-
-- 🌱  **Universitas Bina Sarana Informatika**
+- ⚡ **Universitas Bina Sarana Informatika**
 
 - 👯 I’m looking to collaborate on [Medicify](https://github.com/Medicify)
 
 - 📝 I regularly write articles on [https://bharaayong.blogspot.com](https://bharaayong.blogspot.com)
-
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=bharaayongpm&label=Profile%20views&color=0e75b6&style=flat"
+    alt="adam-pw" /> 
+  </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bhara ayong purna mustika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhara ayong purna mustika" height="30" width="40" /></a>
