@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bhara Ayong Purna Mustika</h1>
 <h3 align="center">I am a motivated and dedicated professional with experience in web development and computer networking. Currently, I am a sixth-semester student pursuing a degree in Computer Science at Universitas Bina Sarana Informatika. Throughout my academic journey, I have honed my skills and knowledge in cloud computing, particularly through my participation in the Cloud Computing Learning Path at Bangkit Academy, led by Google, Tokopedia, Gojek, and Traveloka.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharaayongpm" alt="bharaayongpm" /></a> </p>
 
-- 🌱 I’m currently learning **Universitas Bina Sarana Informatika**
+
+- 🌱  **Universitas Bina Sarana Informatika**
 
 - 👯 I’m looking to collaborate on [Medicify](https://github.com/Medicify)
 
