@@ -10,7 +10,8 @@ I am a motivated and dedicated professional with experience in web development a
 
 - ⚡ **Universitas Bina Sarana Informatika**
 
-- 👯 I’m looking to collaborate on [Medicify](https://github.com/Medicify)
+- 👯 I’m looking to collaborate on [Medicify](https://github.com/Medicify) and [Magang PLN MCTN](https://github.com/Magang-MCTN)
+  
 
 - 📝 I regularly write articles on [https://bharaayong.blogspot.com](https://bharaayong.blogspot.com)
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=bharaayongpm&label=Profile%20views&color=0e75b6&style=flat"
