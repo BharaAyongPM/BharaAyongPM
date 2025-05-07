@@ -5,15 +5,25 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Front+End+Web+Developer;Backend+Web+Developer;Junior+Network+Administrator;Bangkit+Academy++Student++2023;Computer+Science+Student" alt="Typing SVG" /></a>
 </p>
-I'm an eighth-semester Informatics student at Universitas Bina Sarana Informatika, with a robust background in web development and computer networking. During my studies, I participated in an independent study at Bangkit Academy, focusing on cloud computing. I have practical experience working at Bisabola.id and PT PLN MCTN as IT Development.
+# Hi there, I'm Bhara ! 👋
 
-As a passionate software developer, I enjoy pushing the boundaries of technology and contributing to projects that enhance user experience and functionality. My GitHub repositories showcase my skills in various programming languages and frameworks. I am particularly interested in pursuing a career as a full-stack web developer and backend developer.
+I’m an Informatics graduate from Universitas Bina Sarana Informatika with a strong foundation in web development and computer networking.  
+During my academic journey, I took part in an independent study at Bangkit Academy, specializing in cloud computing, and gained hands-on experience working at Bisabola.id and PT PLN MCTN as an IT Developer.
 
-Feel free to browse my projects, fork them, or reach out if you have any questions or are interested in collaborating. Let's connect and build something amazing together!
+Now as a professional software developer, I’m passionate about building impactful digital solutions and continuously improving user experiences.  
+My GitHub repositories highlight my skills across various programming languages and frameworks, with a particular focus on **full-stack** and **backend development**.
 
-- ⚡ **Universitas Bina Sarana Informatika**
+Feel free to explore my projects, fork them, or get in touch if you’re interested in collaborating. Let’s create something awesome together!
 
-- 👯 I’m looking to collaborate on [Medicify](https://github.com/Medicify) and [Magang PLN MCTN](https://github.com/Magang-MCTN)
+- 🎓 **Alumni of Universitas Bina Sarana Informatika — Informatics**
+- 💼 Currently working as a Software Developer
+- 🌟 Passionate about full-stack development and backend engineering
+- 👯 Open to collaborations on [Medicify](https://github.com/Medicify) and [Magang PLN MCTN](https://github.com/Magang-MCTN)
+
+---
+
+**Let’s connect and innovate together! 🚀**
+
   
 
 - 📝 I regularly write articles on [https://bharaayong.blogspot.com](https://bharaayong.blogspot.com)
